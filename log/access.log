@@ -1,0 +1,11 @@
+11:35:04.007 Exec > WARN  Error 3167: The 'INFORMATION_SCHEMA.GLOBAL_STATUS' feature is disabled; see the documentation for 'show_compatibility_56' localhost
+11:35:04.008 Exec > WARN  Error 3167: The 'INFORMATION_SCHEMA.GLOBAL_STATUS' feature is disabled; see the documentation for 'show_compatibility_56' ubuntu
+11:35:15.317 Exec > WARN  Error 3167: The 'INFORMATION_SCHEMA.GLOBAL_STATUS' feature is disabled; see the documentation for 'show_compatibility_56' localhost
+11:35:15.318 Exec > WARN  Error 3167: The 'INFORMATION_SCHEMA.GLOBAL_STATUS' feature is disabled; see the documentation for 'show_compatibility_56' ubuntu
+11:36:14.031 Exec > WARN  Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stauts' at line 1 localhost
+11:36:14.031 Exec > WARN  Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stauts' at line 1 ubuntu
+11:36:57.326 Exec > WARN  Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stauts' at line 1 localhost
+11:36:57.342 Exec > WARN  Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stauts' at line 1 ubuntu
+11:37:36.169 Exec > WARN  invalid connection ubuntu
+11:46:03.534 Exec > WARN  dial tcp 172.16.29.66:3306: getsockopt: connection refused ubuntu
+11:46:05.544 Exec > WARN  dial tcp 172.16.29.66:3306: getsockopt: connection refused ubuntu
